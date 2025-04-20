@@ -6,7 +6,7 @@ Um quiz interativo desenvolvido para testar conhecimentos em programação, lóg
 🚀 Recursos
 Perguntas variadas: Abrange tópicos como algoritmos, estruturas de dados, linguagens e mais.
 
-Níveis de dificuldade: Questões para iniciantes e avançados.
+Níveis de dificuldade: Questões para iniciantes.
 
 Feedback instantâneo: Respostas explicadas ao final de cada pergunta.
 
@@ -20,3 +20,14 @@ Sinta-se à vontade para sugerir novas perguntas, melhorias ou reportar bugs!
 
 🧑‍💻 Imagens do projeto a baixo:
 
+Inicio da página:
+
+![image](https://github.com/user-attachments/assets/4ca75b62-a0e0-497c-805f-6aa1050d5afe)
+
+Aqui você pode conferir sua pontuação: 
+
+![image](https://github.com/user-attachments/assets/1097cebf-e722-4c0a-8bdd-e2540ac11bfa)
+
+Sobrem mim: 
+
+![image](https://github.com/user-attachments/assets/6ea245f7-9b66-4ab3-9c65-952dfd4c6430)
