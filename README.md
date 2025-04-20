@@ -31,3 +31,7 @@ Aqui você pode conferir sua pontuação:
 Sobrem mim: 
 
 ![image](https://github.com/user-attachments/assets/6ea245f7-9b66-4ab3-9c65-952dfd4c6430)
+
+Considerações finais:
+
+Esse projeto é feito exclusivamente para fins didáticos e para o aprimoramento de apredizagem. Todos os direitos reservados ao perfil!
