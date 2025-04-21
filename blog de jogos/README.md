@@ -1,4 +1,4 @@
-# HTML-AND-CSS
+# Blog de jogos 🎮🕹️
 
 Um blog estático sobre jogos desenvolvido com HTML e CSS, apresentando uma interface e visual atraente para amantes de games.
 
