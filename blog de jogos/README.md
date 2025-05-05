@@ -5,7 +5,6 @@ Um blog estático sobre jogos desenvolvido com HTML e CSS, apresentando uma inte
 ✨ Funcionalidades
 - Layout moderno: Design limpo e organizado, com seções bem definidas.
 - Navegação intuitiva: Menu de fácil acesso para explorar o conteúdo.
-- Seções variadas: Destaques para reviews, notícias e lançamentos de jogos.
 
 🛠️ Tecnologias Utilizadas
 - HTML5: Estrutura semântica do conteúdo.
